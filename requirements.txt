@@ -1,0 +1,10 @@
+torch
+torchvision
+pytorch-lightning
+simple-parsing
+albumentations
+<<<<<<< HEAD
+matplotlib
+=======
+matplotlib
+>>>>>>> a57ec590a1b7ee699f0540f7000d51d193df410b
